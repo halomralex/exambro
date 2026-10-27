@@ -10,7 +10,7 @@ import androidx.appcompat.app.AppCompatActivity
 class MainActivity : AppCompatActivity() {
 
     // GANTI alamat ini dengan link ujian kamu
-    private val urlUjian = "https://example.com"
+    private val urlUjian = "https://script.google.com/macros/s/AKfycby8tyjxPAUGc_rh9wejV1Li4-E1Of4UZjnM9G9oWEavfj1VNdDmYtEZvQS0p9PS3rFa/exec"
 
     private lateinit var webView: WebView
 
